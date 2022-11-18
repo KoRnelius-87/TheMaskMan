@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - spike
+  - barrel
+  - enemy
+  - player
+  - spikes
+  - coin
+  - Undefined
+  - Bullet
+  - empty
+  - coins
+  - EnemyBullet
+  - box
+  - life
+  - jump
+  - doubleJump
+  - Laser
+  - LaserAmmo
+  - Crush
+  - Pared
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 1209944667
+    locked: 0
+  - name: Wall
+    uniqueID: 2907088969
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2998830835
+    locked: 0

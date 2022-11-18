@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f49f52223f24ce48bf54aa048af630f, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  Character:
+  - Faces:
+    - letter: 
+      character: {fileID: 591526336708533081, guid: 59f542f139b12054986fc8940ec5c3b3, type: 3}
+    - letter: A
+      character: {fileID: 86465375316498939, guid: 59f542f139b12054986fc8940ec5c3b3, type: 3}
+    - letter: E
+      character: {fileID: -3486833154839190509, guid: 59f542f139b12054986fc8940ec5c3b3, type: 3}
+    - letter: N
+      character: {fileID: 2015082418601771701, guid: 59f542f139b12054986fc8940ec5c3b3, type: 3}
+    - letter: O
+      character: {fileID: 4512481057789823894, guid: 59f542f139b12054986fc8940ec5c3b3, type: 3}
+    - letter: I
+      character: {fileID: -1888350199435378300, guid: d71bb5f83c9bf3c40bc1034b18b8d86c, type: 3}
+    - letter: S
+      character: {fileID: 6541743659741826661, guid: d71bb5f83c9bf3c40bc1034b18b8d86c, type: 3}
+    - letter: U
+      character: {fileID: 8191198841913579557, guid: d71bb5f83c9bf3c40bc1034b18b8d86c, type: 3}
+  time: 0.1
+  capSkip: 32

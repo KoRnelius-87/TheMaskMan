@@ -1,0 +1,354 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:177
+Cursor/Column:0
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:0
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,cb,Helvetica,,UNTITLED SCREENPLAY
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nMy Name Here
+#Title-String 15.000000,248.460000,12,,Courier,,123/456-7890\nno.such@thing.com
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\Es una noche mas en "City" 
+>.Dos matones a sueldo siguen con sus actividades diarias ya
+>.saben lo comun cobrar, ya sea por las buenas o por las
+>.malas, esta noche tenemos un tipo que al parecer no ha
+>.entendido como se maneja un negocio, aunque seamos sinceros
+>.no puedes ir matando a todos los que no te paguen eso da una
+..mala imagen no crees.
+._John(Cyborg)
+>:Oye no te pasa que a veces se
+>:vuelve un poco aburrido, siempre es
+>:lo mismo estos idiotas no pagan y
+.:nosotros nos ensuciamos las manos. 
+._Sthephen(Rabbit)
+>:No lo se yo solo me concentro en mi
+>:trabajo, algun dia pondre mi
+>:restaurante de comida italiana y me
+.:olvidare de todo esto. 
+._Prisionero
+.:Por favor no hagan esto...
+._JOHN(CYBORG)
+>:Callate no nos dejas platicar,al
+>:menos tu tienes musica, no se por
+>:que sigues usando mis audifonos
+.:para esto, Sthep. 
+._STHEPHEN(RABBIT)
+>:No me llames por mi nombre, una ves
+.:en el trabajo soy Rabbbit.
+>.Una vez llegados al muelle,se dispusieron a bajar al
+..prisionero para darle una leccion
+._STHEPHEN(RABBIT)
+>:Mira nada mas que tenemos aqui,
+>:mientras nosotros trabajamos
+>:tenemos a un espia en nuestra
+>:cajuela, creo que debemos darle una
+.:leccion. 
+._JOHN(CYBORG)
+>:Eso es de mala educacion amigo,
+.:ahora ven bajate de mi coche.
+._PRISIONERO
+.:Ustedes estan locos. 
+._JOHN(CYBORG)
+>:Habla por el, yo no uso una mascara
+.:de conejo. 
+..Punch!!....
+._JOHN(CYBORG)
+>:creo que ahora si nos pasamos un
+.:poco no crees
+._STHEPHEN(RABBIT)
+>:El tipo se lo merecia, diremos que
+>:intento escapar y se cayo en la
+>:huida. Aunque diablos necesitaba el
+>:dinero y supongo que esto llevara
+.:un descuento de por medio. 
+._
+>((El prisionero se
+.(levanta)
+..
+._STHEPHEN(RABBIT)
+>:Hey mira siempre si es un tipo
+>:rudo, oye amigo pensamos que nos
+.:costarias un dinero. 
+._JOHN(CYBORG)
+.:Algo no esta bien. 
+._
+>((De la nada el prisionero
+>(muerde a Rabbit en el
+.(brazo)
+.:
+._STHEPHEN(RABBIT)
+.:Maldito bastardo te matare.
+._
+>((Rabbit le dispara a el
+>(prisionero y este cae a
+.(el agua) 
+._JOHN(CYBORG)
+>:He ese tipo te mordio fuerte he,
+>:creo que ahora si tendras que ir a
+>:un medico, eso se mira grotesco, el
+.:pobre estaba muy asustado. 
+._STHEPHEN(RABBIT)
+>:Vamonos de aqui, deberia empezar a
+>:cobrar mas, contara como accidente
+.:laboral?
+._JOHN(CYBORG)
+.:JAJAJAJA eres estupido.
+._
+>((Sin embargo el
+>(prisionero sale del
+.(agua)
+..Esto va a ser una mala noche
+..
+..
+..Ofinia del Jefe
+._BOSS
+.:Que te han mordido?
+._STHEPHEN(RABBIT)
+>:Si el muy maldito me tomo por
+>:sorpresa, y me ataco tuve que
+>:defenderme y termino muerto, lo
+.:siento
+._Boss
+.:Tomen su dinero y larguense de aqui
+._JOHN(CYBORG)
+>:Gracias, vamonos antes de que se
+.:arrepienta. 
+..Los dos salieron apresurados de la oficina
+._STHEPHEN(RABBIT)
+>:Creo que no le hizo gracia que
+.:muriera el tipo
+._JOHN(CYBORG)
+>:Aun asi nos ha pagado completo,
+.:olvidate de eso y vamos a festejar
+._BOSS
+.:No dejen que escapen vivos. 
+>.Los hombres de BOSS salieron de la oficina y empezaron a
+..intentar atrapar a los matones. 
+._JOHN(CYBORG)
+>:Me lo temia nos han tendido una
+>:trampa a correr, dispara a quien
+.:puedas
+._STHEPHEN(RABBIT)
+.:Creo que me siento un poco mal
+._JOHN(CYBORG)
+>:Vamos Rabbit no seas marica, no es
+.:hora de venirse abajo, te necesito
+._STHEPHEN(RABBIT)
+.:Vamos ya me las arreglare. 
+..GAMEPLAY
+..
+..
+..
+..
+..
+..
+>.Una vez que lograron escapar de las oficinas tenian que ir a
+..un lugar seguro
+._STHEPHEN(RABBIT)
+>:Creo que no me siento bien colega
+.:no se si pueda seguir.
+._JOHN(CYBORG)
+>:Maldicion Rabbit necesitamos
+>:escondernos por poco y nos atrapan
+.:disparas como un marica. 
+._STHEPHEN(RABBIT)
+.:Mi vision esta borrosa amigo.
+._JOHN(CYBORG)
+>:Pretextos, vamos ocupas recostarte
+>:Wolf nos ayudara al menos por un
+.:tiempo 
+>.Tomaron un auto y se dirigieron a la casa de Wolf, el era
+>.uno de los tantos matones de BOSS sin embargo estaba a punto
+>.de dejar el negocio, creemos que tuvo complicaciones con su
+>.compañero de trabajo y termino dandole un tiro en la cabeza,
+>.desde ese entonces nadie quiere trabajar con el tiene la
+..mala fama de tener un temperamento muy explosivo. 
+._JOHN(CYBORG)
+.:He Wolf ocupamos tu ayuda amigo
+._Wolf
+.:Que ha sucedido
+._JOHN(CYBORG)
+>:Nada solo que lastimaron a Rabbit
+.:en el ultimo trabajo.
+._WOLF
+>:Y por que no van con BOSS el les
+>:dara asilo y si lo necesita tiene
+.:doctor
+._JOHN(CYBORG)
+>:Digamos que estamos de paso aqui
+>:solamente Rabbit ocupa descansar,
+.:nos puedes ayudar?
+._WOLF
+.:Pasen pero no toquen nada. 
+._JOHN(CYBORG)
+.:Claro. 
+._
+.:
+._
+.:
